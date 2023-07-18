@@ -1,0 +1,49 @@
+JOB DETAILS
+
+Job Title: Senior DBA
+Company: TriNet
+
+JOB SUMMARY/OVERVIEW
+As a Senior Oracle Database Administrator, you will be part of a dynamic team that administers and manages complex database systems. You will create, manage and monitor mission critical databases that are core to the firm. You will be responsible for database administration on Oracle Exadata, on-prem and Cloud RDS engineered systems, solving complex performance problems, capacity planning and automation.
+You will have advanced knowledge in database and application (Oracle RAC and Golden Gate) technologies. Advanced ability to identify possible causes and solutions for problems based on prior experience and current research. You will weigh the costs, benefits, risks and chances for success before recommending a course of action. You must have experience with monitoring, problem diagnosis and resolution, installation and configuration with applications you support. Must have sophisticated knowledge in database (Oracle), application (Linux based) and performance tuning. Must ensure compliance with established industry rules, regulations and standard methodologies.
+
+Essential Duties and Responsibilities:
+• Ensures availability, security and integrity of assigned databases.
+• Resolves database performance, capacity, replication, and other distributed data issues.
+• Installs and configures database management software (DBMS) and applicable service packs and/or patches.
+• Develops and implements database maintenance plans, including performing integrity checks, updating statistics and monitoring security and hardware resource utilization.
+• Establishes regular backups of databases and archive logs.
+• Sophisticated knowledge of RAC and Data Guard.
+• Manages logins and user accounts, including assigning database object permissions and ancillary privileges.
+• Schedules and manages jobs for data transfers and sundry procedures and supervises performance and impact on operations.
+• Participates in data modeling and database logical and physical design.
+• Participates in application development processes and code reviews of database objects.
+• Analyzes long-term database performance trends to optimize database and application performance.
+• Configures database server to work with middleware, web servers and OnLine Analytical Processing (OLAP) tools.
+• Configures, supports, and optimizes replication.
+• Experience of advanced deployment architectures such as availability, resiliency and fault tolerance.
+• Deep understanding of AWS services related to databases highly desirable, particularly Amazon RDS, Amazon Aurora
+• Demonstrated effectiveness working across multiple business units to achieve results
+• Performs other duties and responsibilities as assigned.
+
+Qualifications and Skills:
+• Minimum of a bachelor’s degree in Computer Science, MIS or related degree and Eight (8) years of meaningful experienceincluding database administration, database programming experience or combination of education, training and experience.
+• 5-8 years of experience with the following Oracle products and options: Oracle RDBMS Enterprise Edition, Real Application Clusters (RAC), Replication solutions such as Data Guard and Golden Gate, Exadata and other engineered systems, Multitenant, Oracle Enterprise Manager (OEM).
+• 5-8 years of experience as a hands-on Senior Oracle database administrator.
+• Experience in Oracle 19c, 18c, 12c, ASM, Appliance, database monitoring, and Linux OS.
+• Expert in RMAN backup/restore with optimization.
+• Experience in Exadata/Oracle patching procedures
+• Experience with PL/SQL code development and tuning.
+• Extensive experience in performance tuning and analysis using AWR, ASH, wait analysis.
+• Experience with automation and scripting skills using Perl, shell scripting, or Python a strong plus.
+• Capacity planning for all aspects of a database system (storage, compute, memory, etc.).
+• Understanding of networking and connectivity and how it relates to a database environment.
+• Experience in HR Services industry preferred.
+• Experienced in RMAN backup and recovery process.
+• Ability to work non-standard shift including nights and/or weekend on-call responsibilities.
+• Strong ITIL principles a plus.
+• Serves as a technical liaison to partner with other Technology teams on enterprise initiatives.
+• Develop operational service metrics with measurable plans to improve efficiency, enhanced service, and optimized delivery times.
+• Provide leadership and recommendations on future state design and installation.
+• Provide after-hours support as the need arises.
+• Develop scripts to automate administrative tasks.
